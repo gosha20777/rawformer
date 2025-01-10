@@ -25,7 +25,7 @@ Georgy Perevozchikov, Nancy Mehta, Mahmoud Afifi, Radu Timofte
 
 ### Data Structure
 ```
-- data
+- train-data
     - <dataset_name>
         - trainA
             - img1.jpg, img2.jpg, ...

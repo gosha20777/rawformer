@@ -1,7 +1,7 @@
 import os
 
 CONFIG_NAME = 'config.json'
-ROOT_DATA   = os.environ.get('RAWFORMER_DATA',   'data')
+ROOT_DATA   = os.environ.get('RAWFORMER_DATA',   'train-data')
 ROOT_OUTDIR = os.environ.get('RAWFORMER_OUTDIR', 'outdir')
 
 SPLIT_TRAIN = 'train'

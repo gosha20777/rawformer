@@ -4,7 +4,7 @@ import setuptools
 
 setuptools.setup(
     name             = 'Rawformer',
-    version          = '0.1.0',
+    version          = '0.1.1',
     author           = 'Georgy Perevozchikov',
     author_email     = 'gosha20777@live.ru',
     classifiers      = [

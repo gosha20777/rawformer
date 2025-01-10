@@ -163,7 +163,7 @@ cython_debug/
 
 data/
 outdir/
-predict.py
-train.py
-pretrain.py
 test.ipynb
+predict-test.py
+train-test.py
+pretrain-test.py
